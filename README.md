@@ -1,4 +1,4 @@
-# Transfer Learning using CNN(VGG16)
+# Transfer Learning using CNN (VGG16)
 
 ## I am using cotton disease dataset.
 Dataset Link : https://www.kaggle.com/datasets/janmejaybhoi/cotton-disease-dataset
